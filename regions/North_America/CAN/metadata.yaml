@@ -1,0 +1,8 @@
+country: 
+iso_alpha2: CA
+iso_alpha3: CAN
+region: North_America
+administrative_divisions:
+  - level: 1
+    name: TBD
+    legislative_authority: TBD

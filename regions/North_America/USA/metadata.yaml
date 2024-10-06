@@ -1,0 +1,8 @@
+country: 
+iso_alpha2: US
+iso_alpha3: USA
+region: North_America
+administrative_divisions:
+  - level: 1
+    name: TBD
+    legislative_authority: TBD
